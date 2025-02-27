@@ -71,7 +71,3 @@ Once you have created the .env file and added your Firebase details to it, you c
 1. npm install: Installs all the dependencies required for the project.
 2. npm run dev: Runs the app in development mode.
 3. npm run build: Builds the app for production to the build folder.
-
-## Live
-
-https://blogg-it.netlify.app/
